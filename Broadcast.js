@@ -1,8 +1,8 @@
 const Discord = require("discord.js");
   const kboosh = new Discord.Client();
-    const kbooshtoken = "MzI3NzM2NTMyOTMwOTIwNDUw.DGmnLA.QFbtYXPzTAvZsoFW70wNLyVm3lE"
+    const kbooshtoken = "NjA5NTQzNTE4MDAzNjU4NzUy.XU4SsQ.nFBelil7vrCo8MDW1Jx3Y-6AgUY"
       kboosh.on('ready', () => {
-        kboosh.user.setGame(`KBOOSH TEST Broadcast`,'https://www.twitch.tv/TEST-Broadcast');
+        kboosh.user.setGame(`I love you 💋);
           console.log('Im Ready!');
   
         });
